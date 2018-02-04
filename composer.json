@@ -5,8 +5,9 @@
     "authors": [
         {
             "name": "Nikolya",
-            "email": "k_m_i@i.ua",
-            "homepage": "http://sankam.com.ua/"
+            "email": "kalnitsky.m.i@gmail.com",
+            "homepage": "http://sankam.com.ua",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
